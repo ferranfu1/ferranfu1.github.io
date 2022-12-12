@@ -1,0 +1,41 @@
+header {
+	background-color: white;
+	margin-top: 6%;
+	margin-left: 10%;
+}
+
+header h1 {
+	color: black;
+	font-size: 600%;
+}
+
+.barrablau {
+	width: 30%;
+	height: 2%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+
+header p {
+
+	font-size: 140%;
+}
+
+.fotoinici {
+	position: relative;
+	margin-left: 5%;
+	height: 65%;
+}
+
+ .rounded {
+	height: 75%;
+	width: 70%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.botonesinicio {
+	margin-top: 10%;
+	text-align: center;
+}
+

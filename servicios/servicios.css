@@ -1,0 +1,51 @@
+body {
+	overflow-x: hidden;
+}
+
+header {
+	background-color: white;
+	margin-top: 3%;
+	margin-left: 7%;
+}
+
+header h1 {
+	color: black;
+	font-size: 600%;
+}
+
+.card {
+	margin-top: 10%;
+	max-width: 70%;
+	margin-left: 10%;
+	margin-right: 17%;
+	text-align: center;
+	margin-bottom: 5%;
+
+}
+
+.card img {
+	max-width: 80%;
+}
+
+
+.row .barrablau {
+	max-width: 20% ;
+	height: 2%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	margin-left: 40%;
+}
+
+.productos {
+	text-align: center;
+	font-size: 500%;
+
+}
+
+.textoproductos p{
+margin-top: 15%;
+margin-left: 10%;
+margin-right: 20%;
+text-align: left;
+font-size: 50px;
+}

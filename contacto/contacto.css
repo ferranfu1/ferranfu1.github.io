@@ -1,0 +1,52 @@
+.testbox{
+	background-color: white;
+	border: 5px solid blue;
+	padding: 15px;
+	margin: 20px auto;
+	width: 500px;
+
+}
+
+.texto{
+
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin: 20 px auto;
+	margin-left: 10%;
+	font-size: 30px;
+}
+
+header h1 {
+	color: black;
+	font-size: 600%;
+}
+
+.barrablau {
+	width: 10%;
+	height: 50%;
+	
+	margin-top: 2%;
+}
+
+header p {
+
+	font-size: 140%;
+}
+
+.fotoinici {
+	position: relative;
+	margin-left: 5%;
+	height: 65%;
+}
+
+ .rounded {
+	height: 75%;
+	width: 70%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.botonesinicio {
+	margin-top: 10%;
+	text-align: center;
+}
+
